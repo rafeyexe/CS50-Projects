@@ -1,0 +1,5 @@
+Takes command line arguements
+Class named candidates
+Ask for vote
+Using strcmp update vote count
+Print name with max votes
