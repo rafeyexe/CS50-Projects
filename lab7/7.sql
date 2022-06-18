@@ -1,1 +1,0 @@
-select avg(energy) from songs where artist_id is (select id from artists where name is "Drake");
